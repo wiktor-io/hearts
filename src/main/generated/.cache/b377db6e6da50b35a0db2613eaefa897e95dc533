@@ -1,0 +1,9 @@
+// 1.21.3	2024-10-28T21:52:34.0504864	hearts/Hearts Recipes
+4cd9e87e74995f19cb866bb60c9aeabdb9473aa9 data\hearts\recipe\heart.json
+a786867145db1b3018b689c81a43ec03830f6368 data\hearts\advancement\recipes\misc\heart_of_the_sea.json
+c422ce60a482fd622dc9de31437bb6627e41cbff data\hearts\recipe\heart_of_the_sea.json
+f57768e1633db2ab10605877c5ae06564cfb4eed data\hearts\recipe\enchanted_golden_apple_smithing.json
+463a662d96a20a8a7d3fa49bb890eb6e5c0682fd data\hearts\recipe\totem_of_undying.json
+fc276ff27aeeb03500ccff76c46dd18619342c55 data\hearts\advancement\recipes\misc\heart.json
+e4cd41e2a96e167785b28bd87be81db376b8a76d data\hearts\advancement\recipes\misc\enchanted_golden_apple_smithing.json
+89575074873670bee7652ab1092dfe31f8a115b9 data\hearts\advancement\recipes\combat\totem_of_undying.json

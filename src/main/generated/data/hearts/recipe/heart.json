@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:totem_of_undying",
+    "C": "minecraft:end_crystal",
+    "E": "minecraft:enchanted_golden_apple",
+    "G": "minecraft:gold_block",
+    "H": "minecraft:heart_of_the_sea"
+  },
+  "pattern": [
+    " # ",
+    "EGH",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "hearts:heart"
+  },
+  "show_notification": false
+}

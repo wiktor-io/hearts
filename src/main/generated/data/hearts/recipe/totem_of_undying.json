@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": "minecraft:gold_block",
+    "b": "minecraft:blaze_rod",
+    "e": "minecraft:emerald",
+    "g": "minecraft:gold_ingot",
+    "n": "minecraft:gold_nugget"
+  },
+  "pattern": [
+    "GgG",
+    "ene",
+    "GbG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:totem_of_undying"
+  },
+  "show_notification": false
+}

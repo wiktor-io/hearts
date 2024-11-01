@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": "minecraft:diamond",
+    "E": "minecraft:ender_pearl",
+    "G": "minecraft:gold_ingot",
+    "S": "minecraft:sea_lantern",
+    "W": "minecraft:water_bucket"
+  },
+  "pattern": [
+    "DSD",
+    "GEG",
+    "DWD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:heart_of_the_sea"
+  },
+  "show_notification": false
+}
